@@ -5,7 +5,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BBTan
+namespace TankGame2D
 {
     class Square : Obstacle, ILifeCycle
     {

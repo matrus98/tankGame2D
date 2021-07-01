@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D66953D5-44E1-4EFF-B16A-4BC7E6CC9CAA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>BBTan</RootNamespace>
-    <AssemblyName>BBTan</AssemblyName>
+    <RootNamespace>TankGame2D</RootNamespace>
+    <AssemblyName>TankGame2D</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

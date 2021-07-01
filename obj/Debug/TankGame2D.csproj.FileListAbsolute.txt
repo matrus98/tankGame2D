@@ -1,0 +1,10 @@
+D:\CV\Portfolio\tankGame2D\obj\Debug\TankGame2D.csprojAssemblyReference.cache
+D:\CV\Portfolio\tankGame2D\obj\Debug\TankGame2D.csproj.GenerateResource.cache
+D:\CV\Portfolio\tankGame2D\obj\Debug\TankGame2D.csproj.CoreCompileInputs.cache
+D:\CV\Portfolio\tankGame2D\obj\Debug\TankGame2D.Properties.Resources.resources
+D:\CV\Portfolio\tankGame2D\bin\Debug\TankGame2D.exe.config
+D:\CV\Portfolio\tankGame2D\bin\Debug\TankGame2D.exe
+D:\CV\Portfolio\tankGame2D\bin\Debug\TankGame2D.pdb
+D:\CV\Portfolio\tankGame2D\obj\Debug\TankGame2D.Form1.resources
+D:\CV\Portfolio\tankGame2D\obj\Debug\TankGame2D.exe
+D:\CV\Portfolio\tankGame2D\obj\Debug\TankGame2D.pdb

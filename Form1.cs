@@ -1,4 +1,4 @@
-﻿using BBTan.Properties;
+﻿using TankGame2D.Properties;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BBTan
+namespace TankGame2D
 {
     public partial class Form1 : Form
     {

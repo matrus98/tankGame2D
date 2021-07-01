@@ -1,4 +1,4 @@
-﻿namespace BBTan
+﻿namespace TankGame2D
 {
     partial class Form1
     {
