@@ -1,0 +1,20 @@
+F:\Studia\ROK_II\Semestr II\C# - R. Adamczak\BBtan\BBTan\obj\Debug\BBTan.csprojAssemblyReference.cache
+F:\Studia\ROK_II\Semestr II\C# - R. Adamczak\BBtan\BBTan\obj\Debug\BBTan.Form1.resources
+F:\Studia\ROK_II\Semestr II\C# - R. Adamczak\BBtan\BBTan\obj\Debug\BBTan.Properties.Resources.resources
+F:\Studia\ROK_II\Semestr II\C# - R. Adamczak\BBtan\BBTan\obj\Debug\BBTan.csproj.GenerateResource.cache
+F:\Studia\ROK_II\Semestr II\C# - R. Adamczak\BBtan\BBTan\obj\Debug\BBTan.csproj.CoreCompileInputs.cache
+F:\Studia\ROK_II\Semestr II\C# - R. Adamczak\BBtan\BBTan\bin\Debug\BBTan.exe.config
+F:\Studia\ROK_II\Semestr II\C# - R. Adamczak\BBtan\BBTan\bin\Debug\BBTan.exe
+F:\Studia\ROK_II\Semestr II\C# - R. Adamczak\BBtan\BBTan\bin\Debug\BBTan.pdb
+F:\Studia\ROK_II\Semestr II\C# - R. Adamczak\BBtan\BBTan\obj\Debug\BBTan.exe
+F:\Studia\ROK_II\Semestr II\C# - R. Adamczak\BBtan\BBTan\obj\Debug\BBTan.pdb
+D:\CV\Portfolio\tankGame2D\bin\Debug\BBTan.exe.config
+D:\CV\Portfolio\tankGame2D\bin\Debug\BBTan.exe
+D:\CV\Portfolio\tankGame2D\bin\Debug\BBTan.pdb
+D:\CV\Portfolio\tankGame2D\obj\Debug\BBTan.csprojAssemblyReference.cache
+D:\CV\Portfolio\tankGame2D\obj\Debug\BBTan.Form1.resources
+D:\CV\Portfolio\tankGame2D\obj\Debug\BBTan.Properties.Resources.resources
+D:\CV\Portfolio\tankGame2D\obj\Debug\BBTan.csproj.GenerateResource.cache
+D:\CV\Portfolio\tankGame2D\obj\Debug\BBTan.csproj.CoreCompileInputs.cache
+D:\CV\Portfolio\tankGame2D\obj\Debug\BBTan.exe
+D:\CV\Portfolio\tankGame2D\obj\Debug\BBTan.pdb
